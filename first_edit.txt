@@ -3,4 +3,4 @@ local first edit the txt file and push it to remote.
 edit the txt file and push it to remote.
 again edit the txt file and push it to remote.
 
-to test pull so do some change for pull 
+to test pull so do some change for pull!
